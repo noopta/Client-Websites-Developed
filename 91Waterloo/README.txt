@@ -4,3 +4,5 @@ The following project is for a hair salon / beauty cosmetics company based in Gu
 The website is dynamic and can adjust to different screen sizes. 
 
 Coded with HTML / CSS and JavaScript.
+
+Project can be viewed at 91waterloo.ca
